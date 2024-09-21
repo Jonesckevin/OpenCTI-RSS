@@ -29,3 +29,7 @@ CERT-US RSS                           |  https://www.us-cert.gov/ncas/alerts.xml
 CERT-UA RSS                           |  https://cert.gov.ua/api/articles/rss
 CERT-EU RSS                           |  https://cert.europa.eu/publications/threat-intelligence-rss
 CCCS RSS                              |  https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=alerts_advisories&lang=en
+Malwarebytes Labs RSS                 |  http://blog.malwarebytes.org/feed/
+Hexacorn RSS                          |  http://www.hexacorn.com/blog/feed/
+Darknet – Hacking Tools, Hacker News  |  http://feeds.feedburner.com/darknethackers
+Bleeping computer RSS                 |  http://www.bleepingcomputer.com/feed/
