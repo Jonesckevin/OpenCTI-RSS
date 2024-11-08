@@ -32,6 +32,7 @@ CCCS RSS                              |  https://www.cyber.gc.ca/api/cccs/rss/v1
 Malwarebytes Labs RSS                 |  http://blog.malwarebytes.org/feed/
 Hexacorn RSS                          |  http://www.hexacorn.com/blog/feed/
 Bleeping computer RSS                 |  http://www.bleepingcomputer.com/feed/
+CanLii.org Canada Case-Law            |  https://www.canlii.org/en/search/rssSearch.do?rssExpiryDate=2050-01-01&sort=decisionDateDesc
 
 
 
