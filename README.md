@@ -32,9 +32,12 @@ CCCS RSS                              |  https://www.cyber.gc.ca/api/cccs/rss/v1
 Malwarebytes Labs RSS                 |  http://blog.malwarebytes.org/feed/
 Hexacorn RSS                          |  http://www.hexacorn.com/blog/feed/
 Bleeping computer RSS                 |  http://www.bleepingcomputer.com/feed/
-CanLii.org Canada Case-Law            |  https://www.canlii.org/en/search/rssSearch.do?rssExpiryDate=2050-01-01&sort=decisionDateDesc
+Canadian Parliament                   |  https://www.parl.ca/legisinfo/en/bills/rss
+Open Canada RSS Feed                  |  https://open.canada.ca/data/en/feeds/dataset.atom
 
+### Too Busy:
+~~CanLii.org Canada Case-Law            |  https://www.canlii.org/en/search/rssSearch.do?rssExpiryDate=2050-01-01&sort=decisionDateDesc~~
 
-
+### Don't work anymore
 ~~Darknet – Hacking Tools, Hacker News  -  http://feeds.feedburner.com/darknethackers~~
 ~~Cisco Talos Blog RSS - http://vrt-sourcefire.blogspot.com/feeds/posts/default~~
