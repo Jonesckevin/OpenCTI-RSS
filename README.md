@@ -12,6 +12,7 @@ Go to:
 
 Feed Name|Feel URL
 -|-
+Sophos Sophos News                    |  https://news.sophos.com/en-us/feed
 Trend Micro                           |  http://feeds.trendmicro.com/TrendMicroSimplySecurity
 TheHackerNews RSS                     |  http://thehackernews.com/feeds/posts/default
 The Register RSS                      |  http://www.theregister.co.uk/security/headlines.atom
